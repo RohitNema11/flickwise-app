@@ -4,6 +4,7 @@ Flickwise is a **movie discovery web application** built with **Next.js** that a
 
 ## Live Demo
 https://flickwise-app.vercel.app
+_(TMDB is blocked by some ISPs like Jio in India)_
 
 ## Tech Stack
 - Next.js  
