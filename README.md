@@ -4,7 +4,8 @@ Flickwise is a **movie discovery web application** built with **Next.js** that a
 
 ## Live Demo
 https://flickwise-app.vercel.app <br>
-_(TMDB is blocked by some ISPs like Jio in India)_
+Some ISPs in India (including certain Jio connections) may block access to TMDB endpoints, which can prevent the app from loading movie data.
+If you encounter this issue, using Cloudflare WARP (1.1.1.1) or another network should resolve it.
 
 ## Tech Stack
 - Next.js  
