@@ -24,7 +24,7 @@ export default function HomePage() {
       setError(null);
     } catch (err) {
       console.error(err);
-      setError('Failed to load movies...');
+      setError('Failed to load movies.. Try using Cloudflare DNS (1.1.1.1)');
     } finally {
       setLoading(false);
     }
